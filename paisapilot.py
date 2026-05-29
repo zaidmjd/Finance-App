@@ -1,7 +1,4 @@
-"""
-PaisaPilot - Family Finance Management App
-Built with Python + CustomTkinter
-"""
+
 
 import customtkinter as ctk
 from tkinter import messagebox
