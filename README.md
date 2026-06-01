@@ -9,4 +9,11 @@ Financial strain is a concern for many families. Our app gives households a clea
 
 ✨ Features
 
+🏠 Home Page : A welcome screen used to display monthly income, total spending, surplus amount, investment amounts and total saving to the user 
+
+🤑Income : A page for user to input total monthly income as well as any bonuses they might have earned
+
+💸Spending : Shows the amount of money spent by the user and the categories on which the money was spent
+
+
 
